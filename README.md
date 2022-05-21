@@ -11,10 +11,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I’m Naveen,
-
-
-- I am a software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangalore, India.
+I am a software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangalore, India.
 
 - :telescope: I’m working as a Software Engineer in CGI.
 
